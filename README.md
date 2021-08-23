@@ -9,7 +9,7 @@
 
 ![SNU Logo: This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](SNU_blue_and_gold_legacy_icon.png)
 
-## [SNU Programming Tools](https://github.com/SNU-Programming-Tools), Et; Al.
+## [Seanpm2001](https://github.com/seanpm2001/) / [SNU Programming Tools](https://github.com/SNU-Programming-Tools), Et; Al.
 
 ### Top
 
@@ -58,35 +58,45 @@ Translations are done with Google Translate due to limited or no support for the
 
 [03.0 - Wiki](#Wiki)
 
-[04.0 - Version history](#Version-history)
+[04.0 - History](#History)
 
-[05.0 - Software status](#Software-status)
+> [04.1 - Pre-history](#Pre-history)
 
-[06.0 - Sponsor info](#Sponsor-info)
+> [04.2 - Alpha History](#Alpha-history)
 
-[07.0 - Contributers](#Contributers)
+> [04.3 - Beta History](#Beta-history)
 
-[08.0 - Issues](#Issues)
+> [04.4 - Modern History](#Modern-history)
 
-> [08.1 - Current issues](#Current-issues)
+[05.0 - Version history](#Version-history)
 
-> [08.2 - Past issues](#Past-issues)
+[06.0 - Software status](#Software-status)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+[07.0 - Sponsor info](#Sponsor-info)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+[08.0 - Contributers](#Contributers)
 
-[09.0 - Resources](#Resources)
+[09.0 - Issues](#Issues)
 
-[10.0 - Contributing](#Contributing)
+> [09.1 - Current issues](#Current-issues)
 
-[11.0 - About README](#About-README)
+> [09.2 - Past issues](#Past-issues)
 
-[12.0 - README Version history](#README-version-history)
+> [09.3 - Past pull requests](#Past-pull-requests)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+> [09.4 - Active pull requests](#Active-pull-requests)
 
-> [13.1 - End of file](#EOF)
+[10.0 - Resources](#Resources)
+
+[11.0 - Contributing](#Contributing)
+
+[12.0 - About README](#About-README)
+
+[13.0 - README Version history](#README-version-history)
+
+[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [14.9 - End of file](#EOF)
 
 ***
 
@@ -106,6 +116,28 @@ See above. This repository is the IDE for <LanguageName> that comes with SNUs pr
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+
+***
+
+## History
+
+Write about this projects history here.
+
+### Pre-history
+
+No pre-history to show for this project.
+
+### Alpha history
+
+No Alpha history to show for this project.
+
+### Beta history
+
+No Beta history to show for this project.
+
+### Modern history
+
+No Modern history to show for this project.
 
 ***
 
@@ -244,11 +276,11 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown document (*.md)`
 
-File version: `1 (date)`
+**File version:** `1 (date)`
 
-Line count: `0,314`
+**Line count:** `0,360`
 
 ***
 
@@ -292,6 +324,20 @@ Version 1 (Date)
 
 > * Added the sponsor info section
 
+**ITERATION 5**
+
+> * Updated the title section
+
+> * Updated the index
+
+> * Added the history section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
+
 > * No other changes in version 1
 
 Version 2 (Coming soon)
@@ -306,7 +352,7 @@ Version 2 (Coming soon)
 
 ### You have reached the end of the README file
 
-[Back to top](#Top) [Exit](https://github.com)
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com/) )
 
 ### EOF
 
